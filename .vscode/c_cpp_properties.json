@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Include",
+                "/usr/local/Cellar/gcc/15.1.0/include/c++/15",
+                "/usr/local/Cellar/gcc/15.1.0/include/c++/15/x86_64-apple-darwin24"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "intelliSenseMode": "macos-clang-x64"
+        }
+    ],
+    "version": 4
+}

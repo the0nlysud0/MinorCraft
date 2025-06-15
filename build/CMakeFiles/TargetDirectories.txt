@@ -1,0 +1,3 @@
+/Users/mehdi/Documents/GitHub/MinorCraft/build/CMakeFiles/MinorCraft.dir
+/Users/mehdi/Documents/GitHub/MinorCraft/build/CMakeFiles/edit_cache.dir
+/Users/mehdi/Documents/GitHub/MinorCraft/build/CMakeFiles/rebuild_cache.dir
