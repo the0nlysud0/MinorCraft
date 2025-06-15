@@ -35,7 +35,10 @@ if(APPLE)
         "-framework CoreFoundation"
         "-framework CoreVideo")
 elseif(WIN32)
+    link_directories("${CMAKE_SOURCE_DIR}/Libs/windows")
     target_compile_definitions(MinorCraft PRIVATE WINDOWS)
+    target_link_libraries(MinorCraft
+        "${CMAKE_SOURCE_DIR}/Libs/windows/libglfw3.a")
 elseif(UNIX)
     target_compile_definitions(MinorCraft PRIVATE LINUX)
 endif()

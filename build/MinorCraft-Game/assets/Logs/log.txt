@@ -3,8 +3,9 @@
 [INFO] initialized shader program
 [INFO] compiled and attched vertex shader
 [INFO] compiled and attched fragment shader
-[INFO] loaded texture dirt.png
+[INFO] linked shader program
+[INFO] loaded texture random.png
 [INFO] loaded texture grass-face1.png
-[INFO] created texture atlas :32 , 31
+[INFO] created texture atlas :936 , 900
+[INFO] uniform location :0
 [INFO] window | title: MinorGame | width: 800 | height: 800
-[INFO] window | title: MinorGame | width: 653 | height: 653

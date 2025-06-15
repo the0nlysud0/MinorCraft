@@ -1,50 +1,50 @@
 [
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/Game.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/Game.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/Game.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/Game.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\Game.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\Game.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/Game.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/Game.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -o CMakeFiles/MinorCraft.dir/Source/glad.c.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/glad.c",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/glad.c",
-  "output": "CMakeFiles/MinorCraft.dir/Source/glad.c.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_C.rsp -g -o CMakeFiles\\MinorCraft.dir\\Source\\glad.c.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\glad.c\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/glad.c",
+  "output": "CMakeFiles/MinorCraft.dir/Source/glad.c.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/main.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/main.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/main.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/main.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\main.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\main.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/main.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/main.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_logger.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_logger.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\mb_logger.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\mb_logger.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_logger.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_shader.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_shader.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\mb_shader.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\mb_shader.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_shader.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_texture.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_texture.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\mb_texture.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\mb_texture.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_texture.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_window.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_window.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\mb_window.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\mb_window.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_window.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.obj"
 },
 {
-  "directory": "/Users/mehdi/Documents/GitHub/MinorCraft/build",
-  "command": "/usr/bin/clang++ -DDEBUG -DMACOS -I/Users/mehdi/Documents/GitHub/MinorCraft/Include -g -std=gnu++17 -o CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.o -c /Users/mehdi/Documents/GitHub/MinorCraft/Source/stb_image.cpp",
-  "file": "/Users/mehdi/Documents/GitHub/MinorCraft/Source/stb_image.cpp",
-  "output": "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.o"
+  "directory": "C:/Users/Mehdi B/Documents/Github/MinorCraft/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DDEBUG -DWINDOWS @CMakeFiles/MinorCraft.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MinorCraft.dir\\Source\\stb_image.cpp.obj -c \"C:\\Users\\Mehdi B\\Documents\\Github\\MinorCraft\\Source\\stb_image.cpp\"",
+  "file": "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/stb_image.cpp",
+  "output": "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.obj"
 }
 ]

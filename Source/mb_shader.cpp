@@ -63,9 +63,9 @@ bool mb_shader::link_program()
 
 void mb_shader::set_int(std::string uniformName, int uniform)
 {
-  use();
   unsigned int location = glGetUniformLocation(m_ShaderID,uniformName.c_str());
-  glUniform1i(location , uniform);
+  m_Console.log(LogType::INFO , "uniform location :" , location);
+  glUniform1iv(location ,1 , &uniform);
 }
 
 mb_shader::~mb_shader()

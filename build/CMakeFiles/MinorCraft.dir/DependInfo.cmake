@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/glad.c" "CMakeFiles/MinorCraft.dir/Source/glad.c.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/glad.c.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/Game.cpp" "CMakeFiles/MinorCraft.dir/Source/Game.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/Game.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/main.cpp" "CMakeFiles/MinorCraft.dir/Source/main.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/main.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_logger.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_shader.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_texture.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/mb_window.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.o.d"
-  "/Users/mehdi/Documents/GitHub/MinorCraft/Source/stb_image.cpp" "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.o" "gcc" "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.o.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/glad.c" "CMakeFiles/MinorCraft.dir/Source/glad.c.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/glad.c.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/Game.cpp" "CMakeFiles/MinorCraft.dir/Source/Game.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/Game.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/main.cpp" "CMakeFiles/MinorCraft.dir/Source/main.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/main.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_logger.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_logger.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_shader.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_shader.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_texture.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_texture.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/mb_window.cpp" "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/mb_window.cpp.obj.d"
+  "C:/Users/Mehdi B/Documents/Github/MinorCraft/Source/stb_image.cpp" "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.obj" "gcc" "CMakeFiles/MinorCraft.dir/Source/stb_image.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

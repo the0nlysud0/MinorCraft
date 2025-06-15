@@ -15,11 +15,9 @@ Window::Window(int width, int height, std::string title , mb_logger& console)
   glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR,3);
   glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR,3);
   glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
-  if(__APPLE__)
-  {
+  #ifdef __APPLE__
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT , GLFW_TRUE);
-  }
-  
+  #endif
   m_Window = glfwCreateWindow(width , height , title.c_str() , NULL, NULL);
   if(!m_Window)
   {
